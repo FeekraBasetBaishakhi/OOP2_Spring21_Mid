@@ -31,7 +31,7 @@ namespace LabTask
             this.id = id;
             this.depertment = depertment;
             this.cgpa = cgpa;
-            Console.WriteLine("Parameterized Constructor");
+            Console.WriteLine("Parameterized Constructor:");
         }
        
        
