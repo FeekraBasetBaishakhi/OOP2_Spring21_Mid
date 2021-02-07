@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace LabTask
 {
-    internal class Student
+     class Student
     {
-        string name;
-        int id;
-        string depertment;
-        float cgpa;
+        private string name;
+        private int id;
+        private string depertment;
+        private float cgpa;
 
         public static void Main(string[] args)
         {
@@ -26,11 +26,12 @@ namespace LabTask
         }
         public Student(string name,int id,string depertment,float cgpa)
         {
-            Console.WriteLine("Parameterized Constructor");
+            
             this.name = name;
             this.id = id;
             this.depertment = depertment;
             this.cgpa = cgpa;
+            Console.WriteLine("Parameterized Constructor");
         }
        
        

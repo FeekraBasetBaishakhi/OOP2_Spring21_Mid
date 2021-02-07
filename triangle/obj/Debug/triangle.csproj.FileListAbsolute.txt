@@ -1,0 +1,7 @@
+C:\c#\triangle\bin\Debug\triangle.exe.config
+C:\c#\triangle\bin\Debug\triangle.exe
+C:\c#\triangle\bin\Debug\triangle.pdb
+C:\c#\triangle\obj\Debug\triangle.csprojAssemblyReference.cache
+C:\c#\triangle\obj\Debug\triangle.csproj.CoreCompileInputs.cache
+C:\c#\triangle\obj\Debug\triangle.exe
+C:\c#\triangle\obj\Debug\triangle.pdb

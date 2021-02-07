@@ -1,0 +1,7 @@
+C:\c#\LoopPattern1\bin\Debug\LoopPattern1.exe.config
+C:\c#\LoopPattern1\bin\Debug\LoopPattern1.exe
+C:\c#\LoopPattern1\bin\Debug\LoopPattern1.pdb
+C:\c#\LoopPattern1\obj\Debug\LoopPattern1.csprojAssemblyReference.cache
+C:\c#\LoopPattern1\obj\Debug\LoopPattern1.csproj.CoreCompileInputs.cache
+C:\c#\LoopPattern1\obj\Debug\LoopPattern1.exe
+C:\c#\LoopPattern1\obj\Debug\LoopPattern1.pdb
