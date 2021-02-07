@@ -6,21 +6,31 @@ using System.Threading.Tasks;
 
 public class labtask
 { }
-namespace ConsoleApp1
+namespace EvenOddProblem
 {
-    class lab
+    class Even
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            int n = 20;
-            for (n = 1; n <= 20; n++)
+            int sumEven = 0, sumOdd = 0;
+
+            for (int i = 1; i <= 100; i++)
             {
-                if (n % 2 == 0)
 
-                    Console.WriteLine("Even Numbers :{0} ", n);
-
+                if (i % 2 == 0)
+                {
+                    sumEven += i;
+                }
+                else
+                {
+                    sumOdd += i;
+                }
             }
+
+            Console.Write("Even Sum: {0}\n Odd Sum: {1}", sumEven, sumOdd);
+            Console.Read();
         }
+    }
+
 
     }
-}

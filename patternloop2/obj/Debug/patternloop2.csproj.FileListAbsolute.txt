@@ -4,3 +4,4 @@ C:\c#\patternloop2\bin\Debug\patternloop2.pdb
 C:\c#\patternloop2\obj\Debug\patternloop2.csproj.CoreCompileInputs.cache
 C:\c#\patternloop2\obj\Debug\patternloop2.exe
 C:\c#\patternloop2\obj\Debug\patternloop2.pdb
+C:\c#\patternloop2\obj\Debug\patternloop2.csprojAssemblyReference.cache

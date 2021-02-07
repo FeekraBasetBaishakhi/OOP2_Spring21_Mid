@@ -4,37 +4,57 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace patternloop2
+namespace GradingSystem
 {
     class Program
     {
+
         static void Main(string[] args)
-
         {
-            int n = 4;
-            int m = 6;
-
-            for (int i = 0; i < n; i++)
-            {
-                for (int j = 0; j < m; j++)
-                {
-                    if ((i + j) % 2 == 0)
-                    {
-
-                        Console.Write("X");
-                    }
-
-                    else
-                    {
-                        Console.Write("O");
-                    }
-
-                }
-                Console.Write("\n");
-
-
-            }
+            Console.Write("Enter marks physics: \n");
+            Console.Read(); ;
+            Console.WriteLine();
+            Console.Write("Enter marks chemistry: \n");
             Console.Read();
+            Console.WriteLine();
+            Console.Write("Enter marks Biology: \n");
+            Console.Read();
+            Console.WriteLine();
+            Console.Write("Enter marks Mathematics: \n ");
+            Console.Read();
+            Console.WriteLine();
+            Console.Write("Enter marks Computer: \n ");
+            Console.Read();
+            Console.WriteLine();
+
+            int marks = Convert.ToInt32(Console.ReadLine());
+
+            if (marks >= 90)
+            {
+                Console.WriteLine("A+");
+            }
+            else if (marks >= 85 && marks < 89)
+            {
+                Console.WriteLine("A");
+            }
+            else if (marks >= 80 && marks < 84)
+            {
+                Console.WriteLine("B+");
+            }
+            else if (marks >= 75 && marks < 79)
+            {
+                Console.WriteLine("B");
+            }
+
+            else if (marks <= 50)
+            {
+                Console.WriteLine("F");
+            }
+
+            else
+            {
+                Console.WriteLine();
+            }
         }
     }
 }

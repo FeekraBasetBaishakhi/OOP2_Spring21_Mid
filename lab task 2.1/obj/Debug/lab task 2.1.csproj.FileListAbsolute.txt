@@ -1,2 +1,0 @@
-C:\c#\lab task 2.1\obj\Debug\lab task 2.1.csprojAssemblyReference.cache
-C:\c#\lab task 2.1\obj\Debug\lab task 2.1.csproj.CoreCompileInputs.cache

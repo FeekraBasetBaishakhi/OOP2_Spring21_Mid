@@ -1,7 +1,0 @@
-C:\c#\Loop3\obj\Debug\Loop3.csprojAssemblyReference.cache
-C:\c#\Loop3\obj\Debug\Loop3.csproj.CoreCompileInputs.cache
-C:\c#\Loop3\bin\Debug\Loop3.exe.config
-C:\c#\Loop3\bin\Debug\Loop3.exe
-C:\c#\Loop3\bin\Debug\Loop3.pdb
-C:\c#\Loop3\obj\Debug\Loop3.exe
-C:\c#\Loop3\obj\Debug\Loop3.pdb

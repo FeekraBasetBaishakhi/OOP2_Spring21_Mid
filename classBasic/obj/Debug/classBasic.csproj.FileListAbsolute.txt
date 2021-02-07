@@ -1,7 +1,0 @@
-C:\c#\classBasic\obj\Debug\classBasic.csprojAssemblyReference.cache
-C:\c#\classBasic\obj\Debug\classBasic.csproj.CoreCompileInputs.cache
-C:\c#\classBasic\bin\Debug\classBasic.exe.config
-C:\c#\classBasic\bin\Debug\classBasic.exe
-C:\c#\classBasic\bin\Debug\classBasic.pdb
-C:\c#\classBasic\obj\Debug\classBasic.exe
-C:\c#\classBasic\obj\Debug\classBasic.pdb
