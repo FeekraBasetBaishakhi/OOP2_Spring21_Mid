@@ -1,0 +1,7 @@
+C:\c#\labtask5\bin\Debug\labtask5.exe.config
+C:\c#\labtask5\bin\Debug\labtask5.exe
+C:\c#\labtask5\bin\Debug\labtask5.pdb
+C:\c#\labtask5\obj\Debug\labtask5.csprojAssemblyReference.cache
+C:\c#\labtask5\obj\Debug\labtask5.csproj.CoreCompileInputs.cache
+C:\c#\labtask5\obj\Debug\labtask5.exe
+C:\c#\labtask5\obj\Debug\labtask5.pdb
